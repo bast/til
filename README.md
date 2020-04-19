@@ -12,7 +12,6 @@ Inspired by https://github.com/jbranchaud/til.
 
 - [Looping over date ranges](unix/date-ranges.md)
 
----
 
 ### Documentation
 
