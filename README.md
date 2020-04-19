@@ -16,3 +16,8 @@ Inspired by https://github.com/jbranchaud/til.
 ### Documentation
 
 - [Generating TOC in README.rst](documentation/toc.md)
+
+
+### GitHub
+
+- [Using emoji in GitHub](github/emoji.md)
