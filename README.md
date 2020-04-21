@@ -21,3 +21,8 @@ Inspired by https://github.com/jbranchaud/til.
 ### GitHub
 
 - [Using emoji in GitHub](github/emoji.md)
+
+
+### Twitter
+
+- [Validating cards before sending tweets with URLs](twitter/cards.md)
