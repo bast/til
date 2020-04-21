@@ -1,8 +1,6 @@
 
 
-# TIL
-
-> Today I Learned
+# :bulb: TIL: Today I Learned
 
 Inspired by https://github.com/jbranchaud/til.
 
