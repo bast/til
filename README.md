@@ -14,6 +14,7 @@ Inspired by https://github.com/jbranchaud/til.
 ### Documentation
 
 - [Generating TOC in README.rst](documentation/toc.md)
+- [Installing and serving Jekyll using Bundler](documentation/jekyll-bundler.md)
 
 
 ### GitHub
