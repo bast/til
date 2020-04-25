@@ -9,6 +9,7 @@ Inspired by https://github.com/jbranchaud/til.
 ### Conda
 
 - [Miniconda installation](conda/miniconda.md)
+- [Cheat sheet](conda/cheat.md)
 
 
 ### Documentation
