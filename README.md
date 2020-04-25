@@ -6,6 +6,11 @@ Inspired by https://github.com/jbranchaud/til.
 
 ---
 
+### Conda
+
+- [Miniconda installation](conda/miniconda.md)
+
+
 ### Documentation
 
 - [Generating TOC in README.rst](documentation/toc.md)
