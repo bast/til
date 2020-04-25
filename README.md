@@ -10,6 +10,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 - [Miniconda installation](conda/miniconda.md)
 - [Cheat sheet](conda/cheat.md)
+- [Building a Rust project with Conda](conda/rust.md)
 
 
 ### Documentation
