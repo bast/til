@@ -24,7 +24,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Slurm
 
-- [Slurm cheat sheet](slurm/cheat.md)
+- [Cheat sheet](slurm/cheat.md)
 
 
 ### Twitter
