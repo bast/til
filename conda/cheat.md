@@ -27,7 +27,7 @@ Removing an environment:
 $ conda remove --name myenv --all
 ```
 
-To clean unnecessary cached files:
+To clean unnecessary cached files, tarballs, and stuff:
 ```
-$ conda clean
+$ conda clean --all
 ```
