@@ -25,3 +25,8 @@ Inspired by https://github.com/jbranchaud/til.
 ### Twitter
 
 - [Validating cards before sending tweets with URLs](twitter/cards.md)
+
+
+### Slurm
+
+- [Slurm cheat sheet](slurm/cheat.md)
