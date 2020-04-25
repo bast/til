@@ -6,11 +6,6 @@ Inspired by https://github.com/jbranchaud/til.
 
 ---
 
-### Unix
-
-- [Looping over date ranges](unix/date-ranges.md)
-
-
 ### Documentation
 
 - [Generating TOC in README.rst](documentation/toc.md)
@@ -22,11 +17,6 @@ Inspired by https://github.com/jbranchaud/til.
 - [Using emoji in GitHub](github/emoji.md)
 
 
-### Twitter
-
-- [Validating cards before sending tweets with URLs](twitter/cards.md)
-
-
 ### Jupyter
 
 - [Start without opening the browser](jupyter/no-browser.md)
@@ -35,3 +25,13 @@ Inspired by https://github.com/jbranchaud/til.
 ### Slurm
 
 - [Slurm cheat sheet](slurm/cheat.md)
+
+
+### Twitter
+
+- [Validating cards before sending tweets with URLs](twitter/cards.md)
+
+
+### Unix
+
+- [Looping over date ranges](unix/date-ranges.md)
