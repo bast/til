@@ -27,6 +27,11 @@ Inspired by https://github.com/jbranchaud/til.
 - [Validating cards before sending tweets with URLs](twitter/cards.md)
 
 
+### Jupyter
+
+- [Start without opening the browser](jupyter/no-browser.md)
+
+
 ### Slurm
 
 - [Slurm cheat sheet](slurm/cheat.md)
