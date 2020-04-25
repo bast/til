@@ -21,3 +21,8 @@ Un-block a job that is "launch failed requeued held":
 ```
 $ scontrol release 12345
 ```
+
+Show all qos-es on the system and their priorities:
+```
+$ sacctmgr show qos format=name,priority
+```
