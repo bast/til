@@ -29,6 +29,11 @@ Inspired by https://github.com/jbranchaud/til.
 - [Start without opening the browser](jupyter/no-browser.md)
 
 
+### Rust
+
+- [Optimizing Rust code](rust/optimization.md)
+
+
 ### Slurm
 
 - [Cheat sheet](slurm/cheat.md)
