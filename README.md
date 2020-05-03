@@ -49,3 +49,4 @@ Inspired by https://github.com/jbranchaud/til.
 - [Looping over date ranges](unix/date-ranges.md)
 - [How to give group permission to read without making everything executable](unix/group-permissions.md)
 - [How to remap keys](unix/remap-keys.md)
+- [sshuttle: convenient ssh tunnel for specific webpages only](unix/sshuttle.md)
