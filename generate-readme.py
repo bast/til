@@ -10,9 +10,9 @@ Inspired by https://github.com/jbranchaud/til.
 ---"""
 
 
-def get_directories(md_files):
+def all_directories(md_files):
     directories = [f.split("/")[0] for f in md_files]
-    return sorted(list(set(directories)))
+    return list(set(directories))
 
 
 def extract_title(file_name):
@@ -25,16 +25,15 @@ def extract_title(file_name):
 
 if __name__ == "__main__":
     md_files = glob.glob("*/*.md")
-    directories = get_directories(md_files)
 
-    d = defaultdict(list)
+    directories = defaultdict(list)
     for file_name in md_files:
         directory = file_name.split("/")[0]
         title = extract_title(file_name)
-        d[directory].append((title, file_name))
+        directories[directory].append((title, file_name))
 
     print(header())
-    for directory in directories:
+    for directory in sorted(all_directories(md_files)):
         print(f"\n\n### {directory.title()}\n")
-        for title, file_name in d[directory]:
+        for title, file_name in directories[directory]:
             print(f"- [{title}]({file_name})")
