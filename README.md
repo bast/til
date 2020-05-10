@@ -31,6 +31,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Rust
 
+- [How to use nightly Rust](rust/nightly.md)
 - [Optimizing Rust code](rust/optimization.md)
 
 
