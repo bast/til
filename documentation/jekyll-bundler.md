@@ -1,6 +1,6 @@
 
 
-# Installing and serving Jekyll using [Bundler](https://bundler.io/)
+# Installing and serving Jekyll using Bundler
 
 Serving using [Bundler](https://bundler.io/) is advantageous
 over a `jekyll serve` if you want to recreate the enviroment
