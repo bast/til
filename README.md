@@ -21,6 +21,7 @@ Inspired by https://github.com/jbranchaud/til.
 ### Github
 
 - [Using emoji in GitHub](github/emoji.md)
+- [See all open pull requests for all repos within a namespace](github/open-pull-requests.md)
 
 
 ### Jupyter
