@@ -45,6 +45,11 @@ Inspired by https://github.com/jbranchaud/til.
 - [Tool for adding arrows and stuff to screenshots](teaching/arrows.md)
 
 
+### Testing
+
+- [Travis config file validator](testing/travis-validator.md)
+
+
 ### Twitter
 
 - [Validating cards before sending tweets with URLs](twitter/cards.md)
