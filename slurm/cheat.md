@@ -36,3 +36,8 @@ Get Slurm logs that can be grepped for interesting data:
 ```
 $ sacct -S 2019-12-16 -E 2020-01-20 -X --format=jobid,user,account,partition,qos,alloccpus,nnodes,reqmem
 ```
+
+Workaround if `sacct` truncates job names:
+```
+$ sacct --format="JobID,JobName%30"
+```
