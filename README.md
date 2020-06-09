@@ -40,6 +40,11 @@ Inspired by https://github.com/jbranchaud/til.
 - [Slurm cheat sheet](slurm/cheat.md)
 
 
+### Teaching
+
+- [Tool for adding arrows and stuff to screenshots](teaching/arrows.md)
+
+
 ### Twitter
 
 - [Validating cards before sending tweets with URLs](twitter/cards.md)
