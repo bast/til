@@ -35,6 +35,11 @@ Inspired by https://github.com/jbranchaud/til.
 - [Start Jupyter notebook without opening the browser](jupyter/no-browser.md)
 
 
+### Programming
+
+- [How to get statistics about your code](programming/statistics.md)
+
+
 ### Python
 
 - [Pretty-printing with pprint](python/pprint.md)
