@@ -12,6 +12,11 @@ Inspired by https://github.com/jbranchaud/til.
 - [Conda cheat sheet](conda/cheat.md)
 
 
+### Containers
+
+- [How to install Singularity](containers/singularity-installation.md)
+
+
 ### Documentation
 
 - [Installing and serving Jekyll using Bundler](documentation/jekyll-bundler.md)
