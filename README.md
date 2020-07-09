@@ -35,6 +35,11 @@ Inspired by https://github.com/jbranchaud/til.
 - [Start Jupyter notebook without opening the browser](jupyter/no-browser.md)
 
 
+### Python
+
+- [Pretty-printing with pprint](python/pprint.md)
+
+
 ### Rust
 
 - [How to use nightly Rust](rust/nightly.md)
