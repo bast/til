@@ -76,3 +76,8 @@ Inspired by https://github.com/jbranchaud/til.
 - [How to run scripts in parallel](unix/running-scripts-in-parallel.md)
 - [Looping over date ranges](unix/date-ranges.md)
 - [How to run a command in a clean environment](unix/clean-environment.md)
+
+
+### Yaml
+
+- [How to check whether your YAML file is valid?](yaml/linting.md)
