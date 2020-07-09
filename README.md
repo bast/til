@@ -63,6 +63,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Unix
 
+- [How to debug code compilation with the warning pragma](unix/warning-pragma.md)
 - [Using ProxyJump when ssh-jumping via another host](unix/proxyjump.md)
 - [sshuttle: convenient ssh tunnel for specific webpages only](unix/sshuttle.md)
 - [How to remap keys](unix/remap-keys.md)
