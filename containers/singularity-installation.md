@@ -2,7 +2,9 @@
 
 # How to install Singularity
 
-Requires sudo in last step:
+Requires sudo in last step.
+Also requires Go installed and in `$PATH`.
+
 ```
 #!/usr/bin/env bash
 
