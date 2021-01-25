@@ -8,7 +8,7 @@ Also requires Go installed and in `$PATH`.
 ```
 #!/usr/bin/env bash
 
-export VERSION=3.6.4
+export VERSION=3.7.1
 
 wget https://github.com/sylabs/singularity/releases/download/v${VERSION}/singularity-${VERSION}.tar.gz
 
