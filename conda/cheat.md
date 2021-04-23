@@ -1,10 +1,18 @@
-
-
 # Conda cheat sheet
+
+Reverses the init:
+```
+$ conda init --reverse
+```
 
 List all environments:
 ```
 $ conda info -e
+```
+
+Get list of installed packages:
+```
+$ conda env list
 ```
 
 Create a new environment:
@@ -20,6 +28,11 @@ $ conda activate myenv
 Deactivate current environment:
 ```
 $ conda deactivate
+```
+
+Exports only actively installed packages:
+```
+$ conda export --from-history
 ```
 
 Removing an environment:
