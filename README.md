@@ -7,21 +7,26 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Conda
 
-- [Building a Rust project with Conda](conda/rust.md)
-- [Miniconda installation](conda/miniconda.md)
 - [Conda cheat sheet](conda/cheat.md)
+- [Miniconda installation](conda/miniconda.md)
+- [Building a Rust project with Conda](conda/rust.md)
 
 
 ### Containers
 
-- [How to install Singularity](containers/singularity-installation.md)
 - [Docker cheat sheet](containers/docker-cheat.md)
+- [How to install Singularity](containers/singularity-installation.md)
 
 
 ### Documentation
 
 - [Installing and serving Jekyll using Bundler](documentation/jekyll-bundler.md)
 - [Generating TOC in README.rst](documentation/toc.md)
+
+
+### Fsharp
+
+- [Installing dotnet on Arch Linux](fsharp/installation.md)
 
 
 ### Github
@@ -73,15 +78,15 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Unix
 
-- [How to debug code compilation with the warning pragma](unix/warning-pragma.md)
-- [Using ProxyJump when ssh-jumping via another host](unix/proxyjump.md)
-- [Tools I use to check disk usage](unix/disk-usage.md)
-- [sshuttle: convenient ssh tunnel for specific webpages only](unix/sshuttle.md)
-- [How to remap keys](unix/remap-keys.md)
-- [How to give group permission to read without making everything executable](unix/group-permissions.md)
-- [How to run scripts in parallel](unix/running-scripts-in-parallel.md)
-- [Looping over date ranges](unix/date-ranges.md)
 - [How to run a command in a clean environment](unix/clean-environment.md)
+- [Looping over date ranges](unix/date-ranges.md)
+- [Tools I use to check disk usage](unix/disk-usage.md)
+- [How to give group permission to read without making everything executable](unix/group-permissions.md)
+- [Using ProxyJump when ssh-jumping via another host](unix/proxyjump.md)
+- [How to remap keys](unix/remap-keys.md)
+- [How to run scripts in parallel](unix/running-scripts-in-parallel.md)
+- [sshuttle: convenient ssh tunnel for specific webpages only](unix/sshuttle.md)
+- [How to debug code compilation with the warning pragma](unix/warning-pragma.md)
 
 
 ### Yaml
