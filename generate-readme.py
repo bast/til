@@ -24,7 +24,7 @@ def extract_title(file_name):
 
 
 if __name__ == "__main__":
-    md_files = glob.glob("*/*.md")
+    md_files = sorted(glob.glob("*/*.md"))
 
     directories = defaultdict(list)
     for file_name in md_files:
