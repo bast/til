@@ -32,7 +32,7 @@ $ conda deactivate
 
 Exports only actively installed packages:
 ```
-$ conda export --from-history
+$ conda env export --from-history
 ```
 
 Removing an environment:
