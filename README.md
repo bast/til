@@ -97,6 +97,7 @@ Inspired by https://github.com/jbranchaud/til.
 - [How to remap keys](unix/remap-keys.md)
 - [How to run scripts in parallel](unix/running-scripts-in-parallel.md)
 - [sshuttle: convenient ssh tunnel for specific webpages only](unix/sshuttle.md)
+- [Multi-threaded tar](unix/tar.md)
 - [How to debug code compilation with the warning pragma](unix/warning-pragma.md)
 
 
