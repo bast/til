@@ -69,6 +69,7 @@ Inspired by https://github.com/jbranchaud/til.
 ### Teaching
 
 - [Tool for adding arrows and stuff to screenshots](teaching/arrows.md)
+- [Screencasting keys](teaching/keys.md)
 
 
 ### Testing
