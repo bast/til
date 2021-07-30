@@ -1,5 +1,3 @@
-
-
 # Slurm cheat sheet
 
 Display info about job:
@@ -40,4 +38,9 @@ $ sacct -S 2019-12-16 -E 2020-01-20 -X --format=jobid,user,account,partition,qos
 Workaround if `sacct` truncates job names:
 ```
 $ sacct --format="JobID,JobName%30"
+```
+
+Get a list of slurm hostnames which does not need a regex unwrap:
+```
+$ scontrol show hostnames $SLURM_JOB_NODELIST
 ```
