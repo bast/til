@@ -16,3 +16,8 @@ Remove everything:
 ```
 $ docker system prune -a
 ```
+
+Get a shell into a Docker image:
+```
+$ docker run -it --entrypoint bash ubuntu:18.04
+```
