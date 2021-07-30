@@ -36,6 +36,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Github
 
+- [Trick to use env vars in GH Action workflows](github/actions.md)
 - [Using emoji in GitHub](github/emoji.md)
 - [See all open pull requests for all repos within a namespace](github/open-pull-requests.md)
 
