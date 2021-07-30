@@ -18,6 +18,11 @@ Inspired by https://github.com/jbranchaud/til.
 - [How to install Singularity](containers/singularity-installation.md)
 
 
+### Databases
+
+- [Azure datastore models](databases/azure.md)
+
+
 ### Documentation
 
 - [Installing and serving Jekyll using Bundler](documentation/jekyll-bundler.md)
