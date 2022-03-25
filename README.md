@@ -48,6 +48,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Jupyter
 
+- [Inspecting npy/npz files using Binder](jupyter/binder-numpy-arrays.md)
 - [Start Jupyter notebook without opening the browser](jupyter/no-browser.md)
 
 
