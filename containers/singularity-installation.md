@@ -1,5 +1,3 @@
-
-
 # How to install Singularity
 
 Requires sudo in last step.

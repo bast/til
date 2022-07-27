@@ -1,5 +1,3 @@
-
-
 # Docker cheat sheet
 
 List all images:
