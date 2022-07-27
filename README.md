@@ -52,6 +52,11 @@ Inspired by https://github.com/jbranchaud/til.
 - [Start Jupyter notebook without opening the browser](jupyter/no-browser.md)
 
 
+### Network
+
+- [Network configuration using command line](network/command-line.md)
+
+
 ### Programming
 
 - [How to get statistics about your code](programming/statistics.md)
