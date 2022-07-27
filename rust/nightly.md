@@ -1,5 +1,3 @@
-
-
 # How to use nightly Rust
 
 ```bash

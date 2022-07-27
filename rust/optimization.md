@@ -1,5 +1,3 @@
-
-
 # Optimizing Rust code
 
 - https://deterministic.space/high-performance-rust.html
