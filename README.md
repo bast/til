@@ -64,6 +64,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Rust
 
+- [Maturin and test-PyPI](rust/maturin.md)
 - [How to use nightly Rust](rust/nightly.md)
 - [Optimizing Rust code](rust/optimization.md)
 
