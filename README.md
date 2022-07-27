@@ -15,6 +15,7 @@ Inspired by https://github.com/jbranchaud/til.
 ### Containers
 
 - [Docker cheat sheet](containers/docker-cheat.md)
+- [Jekyll via Singularity](containers/jekyll.md)
 - [How to install Singularity](containers/singularity-installation.md)
 
 
