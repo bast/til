@@ -119,6 +119,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Video-Editing
 
+- [Concatenate vides with ffmpeg](video-editing/concatenating.md)
 - [moviepy](video-editing/moviepy.md)
 
 
