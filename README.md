@@ -104,6 +104,11 @@ Inspired by https://github.com/jbranchaud/til.
 - [How to debug code compilation with the warning pragma](unix/warning-pragma.md)
 
 
+### Video-Editing
+
+- [moviepy](video-editing/moviepy.md)
+
+
 ### Visualization
 
 - [Great overview of Python visualization libraries](visualization/overview.md)
