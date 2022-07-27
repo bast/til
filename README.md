@@ -14,6 +14,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Containers
 
+- [Decktape via Singularity](containers/decktape.md)
 - [Docker cheat sheet](containers/docker-cheat.md)
 - [Jekyll via Singularity](containers/jekyll.md)
 - [How to install Singularity](containers/singularity-installation.md)
