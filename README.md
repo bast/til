@@ -65,6 +65,7 @@ Inspired by https://github.com/jbranchaud/til.
 ### Python
 
 - [Pretty-printing with pprint](python/pprint.md)
+- [Fun and bad way to figure out Python major version](python/version.md)
 
 
 ### Rust
