@@ -5,6 +5,11 @@ Inspired by https://github.com/jbranchaud/til.
 ---
 
 
+### Cloud
+
+- [Deploying a project to Google Cloud](cloud/google-cloud.md)
+
+
 ### Conda
 
 - [Conda cheat sheet](conda/cheat.md)
