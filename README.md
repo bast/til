@@ -23,6 +23,8 @@ Inspired by https://github.com/jbranchaud/til.
 - [Docker cheat sheet](containers/docker-cheat.md)
 - [Jekyll via Singularity](containers/jekyll.md)
 - [How to install Singularity](containers/singularity-installation.md)
+- [Sphinx container](containers/sphinx.md)
+- [Ubuntu container for development](containers/ubuntu.md)
 
 
 ### Databases
