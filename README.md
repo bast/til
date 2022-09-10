@@ -111,6 +111,7 @@ Inspired by https://github.com/jbranchaud/til.
 - [Looping over date ranges](unix/date-ranges.md)
 - [Tools I use to check disk usage](unix/disk-usage.md)
 - [How to give group permission to read without making everything executable](unix/group-permissions.md)
+- [Creating many small files](unix/many-files.md)
 - [Using ProxyJump when ssh-jumping via another host](unix/proxyjump.md)
 - [How to remap keys](unix/remap-keys.md)
 - [How to run scripts in parallel](unix/running-scripts-in-parallel.md)
