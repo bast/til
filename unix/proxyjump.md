@@ -1,5 +1,3 @@
-
-
 # Using ProxyJump when ssh-jumping via another host
 
 In this example we cannot access `somehost` or `anotherhost`

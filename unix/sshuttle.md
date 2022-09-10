@@ -1,5 +1,3 @@
-
-
 # sshuttle: convenient ssh tunnel for specific webpages only
 
 More info: https://github.com/sshuttle/sshuttle

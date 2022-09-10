@@ -1,5 +1,3 @@
-
-
 # How to debug code compilation with the warning pragma
 
 You can insert this into your source code:

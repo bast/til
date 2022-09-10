@@ -1,5 +1,3 @@
-
-
 # Looping over date ranges
 
 You need to install `dateutils` to get `dateseq`.

@@ -1,5 +1,3 @@
-
-
 # How to run a command in a clean environment
 
 ```

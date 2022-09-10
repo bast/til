@@ -1,5 +1,3 @@
-
-
 # How to give group permission to read without making everything executable
 
 ```

@@ -1,5 +1,3 @@
-
-
 # How to remap keys
 
 My "Up" key broke off and here I remap "Up" to "PgUp":
