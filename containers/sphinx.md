@@ -8,7 +8,7 @@ From: python:3.7-alpine
     requirements.txt
 
 %post
-    apk add --no-cache build-base libffi-dev
+    apk add --no-cache build-base libffi-dev git
     pip install --upgrade pip
     pip install -r requirements.txt
 
