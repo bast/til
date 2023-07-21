@@ -100,11 +100,6 @@ Inspired by https://github.com/jbranchaud/til.
 - [Travis config file validator](testing/travis-validator.md)
 
 
-### Twitter
-
-- [Validating cards before sending tweets with URLs](twitter/cards.md)
-
-
 ### Unix
 
 - [How to run a command in a clean environment](unix/clean-environment.md)
