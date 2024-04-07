@@ -75,6 +75,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 - [Sorting values into bins using bisect](python/bins.md)
 - [Pretty-printing with pprint](python/pprint.md)
+- [Profiling with [Scalene](https://github.com/plasma-umass/scalene)](python/profiling.md)
 - [Fun and bad way to figure out Python major version](python/version.md)
 
 
