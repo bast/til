@@ -73,6 +73,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 ### Python
 
+- [Sorting values into bins using bisect](python/bins.md)
 - [Pretty-printing with pprint](python/pprint.md)
 - [Fun and bad way to figure out Python major version](python/version.md)
 
