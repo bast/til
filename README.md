@@ -92,6 +92,7 @@ Inspired by https://github.com/jbranchaud/til.
 ### Teaching
 
 - [Tool for adding arrows and stuff to screenshots](teaching/arrows.md)
+- [Recording terminal sessions with [asciinema](https://asciinema.org/)](teaching/asciinema.md)
 - [Screencasting keys](teaching/keys.md)
 
 
