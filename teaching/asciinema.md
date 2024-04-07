@@ -1,4 +1,6 @@
-# Recording terminal sessions with [asciinema](https://asciinema.org/)
+# Recording terminal sessions with asciinema
+
+[asciinema](https://asciinema.org/) is a very nice tool!
 
 This starts and records a separate Bash session:
 ```bash

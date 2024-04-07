@@ -75,7 +75,7 @@ Inspired by https://github.com/jbranchaud/til.
 
 - [Sorting values into bins using bisect](python/bins.md)
 - [Pretty-printing with pprint](python/pprint.md)
-- [Profiling with [Scalene](https://github.com/plasma-umass/scalene)](python/profiling.md)
+- [Profiling with Scalene](python/profiling.md)
 - [Fun and bad way to figure out Python major version](python/version.md)
 
 
@@ -95,7 +95,7 @@ Inspired by https://github.com/jbranchaud/til.
 ### Teaching
 
 - [Tool for adding arrows and stuff to screenshots](teaching/arrows.md)
-- [Recording terminal sessions with [asciinema](https://asciinema.org/)](teaching/asciinema.md)
+- [Recording terminal sessions with asciinema](teaching/asciinema.md)
 - [Screencasting keys](teaching/keys.md)
 
 

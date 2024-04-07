@@ -1,4 +1,7 @@
-# Profiling with [Scalene](https://github.com/plasma-umass/scalene)
+# Profiling with Scalene
+
+[Scalene](https://github.com/plasma-umass/scalene) is a nice tool for profiling
+Python code.
 
 Install `scalene`. Then:
 ```bash
