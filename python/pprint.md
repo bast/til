@@ -1,5 +1,3 @@
-
-
 # Pretty-printing with pprint
 
 `pprint` is a nice module/function to print dictionaries and other data
